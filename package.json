@@ -1,0 +1,22 @@
+{
+  "name": "di-apiclient",
+  "version": "0.0.0",
+  "description": "A local client to communicate with the Dynamic Image API",
+  "author": "WubzyGD and Brys0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamic",
+    "image",
+    "api"
+  ],
+  "license": "ISC",
+  "displayName": "Dynamic Image API Local Client",
+  "respository": "https://github.com/DynamicImageAPI/local-client",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
